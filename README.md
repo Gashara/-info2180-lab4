@@ -1,2 +1,2 @@
 # INFO2180 Lab 4
-This is Lab 4 for <Daniel Leon>
+This is Lab 4 for Daniel Leon
